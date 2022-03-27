@@ -5,6 +5,33 @@
       location = "group:Parstagram.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:Parstagram/AppDelegate.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/Assets.xcassets">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/Base.lproj">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/CameraViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/FeedViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/Info.plist">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/LoginViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/PostCell.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Parstagram/SceneDelegate.swift">
+   </FileRef>
+   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
